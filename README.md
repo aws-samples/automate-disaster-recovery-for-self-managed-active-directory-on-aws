@@ -9,7 +9,7 @@ Taking regular backups is critical for implementing a DR plan for AD. This propo
 Refer to this [blog post](https://aws.amazon.com/blogs/security/securely-extend-and-access-on-premises-active-directory-domain-controllers-in-aws/) for steps on extending your self-managed AD to AWS.
 
 
-![Solution Architecture]([/images/Figure1%20-%20Solution-Architecture.png](https://github.com/aws-samples/automate-disaster-recovery-for-self-managed-active-directory-on-aws/blob/main/Images/Figure1%20-%20Solution-Architecture.png))
+![Solution Architecture](https://github.com/aws-samples/automate-disaster-recovery-for-self-managed-active-directory-on-aws/blob/main/Images/Figure1%20-%20Solution-Architecture.png))
 
 ## Prerequisites
 The instructions in this post assume that you understand how to [create Amazon EC2 instances](http://docs.aws.amazon.com/AWSEC2/latest/WindowsGuide/EC2_GetStarted.html) and how to [use Remote Desktop Protocol (RDP) to log in to the instances](http://docs.aws.amazon.com/AWSEC2/latest/WindowsGuide/connecting_to_windows_instance.html). For customers running AD on premises, these instructions also assume you have extended your on-premises AD to Amazon EC2. 
