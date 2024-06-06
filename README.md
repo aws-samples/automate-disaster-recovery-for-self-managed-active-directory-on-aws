@@ -34,12 +34,7 @@ Here are the high-level steps to implement the solution.
 5. Restore the system state backup from the backup volume.
 6. Perform AD Forest recovery steps.
 
-For detailed implementation steps for this solution, refer to [the blog](https://aws.amazon.com/blogs/modernizing-with-aws/automate-disaster-recovery-for-your-self-managed-active-directory-on-aws/).
-
-
-
-
-* Edit your repository description on GitHub
+**For detailed implementation steps for this solution, refer to [the blog](https://aws.amazon.com/blogs/modernizing-with-aws/automate-disaster-recovery-for-your-self-managed-active-directory-on-aws/).**
 
 ## Security
 
